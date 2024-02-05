@@ -22,7 +22,7 @@ I'm a software engineer based in California, and I'm passionate about using mach
 
 ### 💬 Ask me about 
 ---------------------------------------------------------------------------    
-`NLP` `Artificial Neural Networks` `Deep Learning` `HIV-1 research`    
+`Machine Learning` `NLP` `Artificial Neural Networks` `Deep Learning` `HIV-1 research`    
 
 ### ✨ Fun Facts
 ---------------------------------------------------------------------------- 
