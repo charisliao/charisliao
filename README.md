@@ -13,7 +13,7 @@ I'm a software engineer based in California, and I'm passionate about using mach
     
 **Machine Learning:** `Pytorch` `Tensorflow` `XGBoost` `Scikit Learn`     
     
-**AWS:** `S3` `Athena` `Sagemake`    
+**AWS:** `S3` `Athena` `Sagemaker`    
     
 **AI/ML platforms:** `HuggingFace` `Kaggle` 
 
